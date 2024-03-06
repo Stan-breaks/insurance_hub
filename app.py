@@ -104,10 +104,6 @@ def ussd():
 class SMS:
     def __init__(self):
         # Set your app credentials
-        # self.username = "sandbox"
-        # self.api_key = (
-        #     "cf487948b0844eda0a33f31bd0c264cce9abe14919893a0c887c3e98b8765c20"
-        # )
         self.username = ""
         self.api_key=""
 
