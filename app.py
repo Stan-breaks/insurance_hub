@@ -108,8 +108,8 @@ class SMS:
         # self.api_key = (
         #     "cf487948b0844eda0a33f31bd0c264cce9abe14919893a0c887c3e98b8765c20"
         # )
-        self.username = "app001"
-        self.api_key="ae4ab7920eb757987e814f0360fa12ae8e3bafa3220ddc46968e73d5ad680754"
+        self.username = ""
+        self.api_key=""
 
 
         # Initialize the SDK
